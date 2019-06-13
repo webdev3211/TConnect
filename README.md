@@ -12,3 +12,6 @@ A social app build with features including sending messages, notifications, sear
 
 # Find Friends
 ![alt text](https://i.ibb.co/0ZML8zF/Tconnect3.png)
+
+# 404 Page
+![alt text](https://i.ibb.co/yPqzHys/TConnect4.png)
